@@ -20,7 +20,29 @@ console.log(nome3)
 let disciplina =null
 console.log(disciplina)
 
+//TIPO DE VARIAVEIS
 
-//OUTRAS DECLARAÇÔES
+//INTEIRO
+let idade = "18";
+console.log(idade)
+
+//FLUTUANTES OU COM CASAS DECIMAIS
+let valor= 6.4;
+console.log(valor)
+
+//STRINGS(TEXTOS)
+let texto="Fiap";
+console.log(texto)
+
+//BOOLEANOS - VERDADEIRO OU FALSO
+let aluno=true
+console.log(aluno)
+
+//ARRAY - CONJUNTO DE INFORMAÇÕES
+let tecnologias =["JAVA", "C#", "HTML", "CSS"];
+console.log(tecnologias)
+
+
+
 
 
