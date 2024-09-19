@@ -1,0 +1,29 @@
+[33mcommit 650faa712543d022687c15ba6c907e67a817257b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Gustavo <naotoiida11@gmail.com>
+Date:   Thu Sep 19 11:23:11 2024 -0300
+
+    criando tipos de variaveis
+
+[33mcommit d0c27a53b64eb75bc1d14e28887361a2572d1377[m
+Author: Gustavo <naotoiida11@gmail.com>
+Date:   Thu Sep 19 11:14:48 2024 -0300
+
+    Criando as variaveis indefinidas e vazias
+
+[33mcommit da57829fb746dfead5a89a837d8285ca2257d389[m
+Author: Gustavo <naotoiida11@gmail.com>
+Date:   Thu Sep 19 11:07:55 2024 -0300
+
+    Declarando os tipos de dados var, let, const
+
+[33mcommit e0c44dafbdb5ee185b9494a9730119d9d556fe3e[m
+Author: Gustavo <naotoiida11@gmail.com>
+Date:   Thu Sep 19 10:56:31 2024 -0300
+
+    chamando o script externo
+
+[33mcommit 8931dc9866a0cce91f014952d1e622d187582328[m
+Author: Gustavo <naotoiida11@gmail.com>
+Date:   Thu Sep 19 10:47:19 2024 -0300
+
+    Criando exmeplo1- chamando script interno

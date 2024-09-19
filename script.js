@@ -1,3 +1,4 @@
+/*
 // alert("Olá mundo-externo")
 
 //DECLARANDO AS VARIAVEIS 
@@ -41,7 +42,31 @@ console.log(aluno)
 //ARRAY - CONJUNTO DE INFORMAÇÕES
 let tecnologias =["JAVA", "C#", "HTML", "CSS"];
 console.log(tecnologias)
+*/
 
+//CONVERSÕES
+
+//converta de float para inteiro
+
+let numeroFloat = 123.456;
+console.log(parseInt(numeroFloat));
+
+//converta de string para float
+
+let numeroString ="654.321"
+console.log(parseFloat(numeroString));
+
+//converta de numero interio para string
+
+let numeroInteiro = 789
+console.log(numeroInteiro.toString())
+
+//VALOR BOOLEANO
+let alunoAula = true
+
+//VER O TIPO DA VARIAVEL 
+let verTipo = typeof alunoAula
+console.log(verTipo)
 
 
 
